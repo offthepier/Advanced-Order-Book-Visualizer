@@ -4,6 +4,7 @@ A sophisticated real-time visualization tool for financial market order books us
 
 ![Order Book Visualizer](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&q=80&w=1200&h=400)
 
+## https://sprightly-nougat-b544a9.netlify.app
 ## 🌟 Features
 
 - **AVL Tree Visualization**: Real-time visualization of the order book structure using a self-balancing AVL tree
@@ -16,7 +17,7 @@ A sophisticated real-time visualization tool for financial market order books us
 
 ## 🚀 Live Demo
 
-## Check out (works best on Safari): [Advanced Order Book Visualizer](https://sprightly-nougat-b544a9.netlify.app)
+## Check out (works best on Safari): [Advanced Order Book Visualizer](https://sprightly-nougat-b544a9.netlify.app) https://sprightly-nougat-b544a9.netlify.app
 
 ![Screen Recording 2025-01-10 at 4 43 26 pm](https://github.com/user-attachments/assets/9c943039-eea4-4e6a-8236-f5a7546101c1)
 
