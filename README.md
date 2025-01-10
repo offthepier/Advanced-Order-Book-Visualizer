@@ -1,9 +1,10 @@
+![Order Book Visualizer](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&q=80&w=1200&h=400)
+
 # 📊 Advanced Order Book Visualizer
 
 A sophisticated real-time visualization tool for financial market order books using AVL trees and advanced matching algorithms.
 
-![Order Book Visualizer](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&q=80&w=1200&h=400)
-
+![Screen Recording 2025-01-10 at 4 43 26 pm](https://github.com/user-attachments/assets/9c943039-eea4-4e6a-8236-f5a7546101c1)
 ## 🌟 Features
 
 - **AVL Tree Visualization**: Real-time visualization of the order book structure using a self-balancing AVL tree
@@ -96,9 +97,6 @@ For questions and feedback, please open an issue in the repository.
 
 Made with ❤️ for the financial technology community
 https://sprightly-nougat-b544a9.netlify.app
-
-![Screen Recording 2025-01-10 at 4 43 26 pm](https://github.com/user-attachments/assets/9c943039-eea4-4e6a-8236-f5a7546101c1)
-
 
 ![Screen Recording 2025-01-10 at 4 43 26 pm copy 2](https://github.com/user-attachments/assets/25e1eade-b26d-4e42-9a5d-715f08a247bf)
 
