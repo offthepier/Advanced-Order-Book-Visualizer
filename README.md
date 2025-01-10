@@ -4,4 +4,5 @@ https://sprightly-nougat-b544a9.netlify.app
 
 ![Screen Recording 2025-01-10 at 4 43 26 pm](https://github.com/user-attachments/assets/bf974485-799b-4f76-9830-f91a931cdcb5)
 
-![Screen Recording 2025-01-10 at 4 43 26 pm copy](https://github.com/user-attachments/assets/b0bdacec-23a3-432b-8994-61d316e46dc4)
+![Screen Recording 2025-01-10 at 4 43 26 pm copy 2](https://github.com/user-attachments/assets/25e1eade-b26d-4e42-9a5d-715f08a247bf)
+
